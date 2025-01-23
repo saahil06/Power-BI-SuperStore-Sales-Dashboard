@@ -5,6 +5,13 @@
 
 This project focuses on the analysis of super store data using **Power BI** to create an interactive dashboard that provides valuable insights into sales performance, customer behavior, and business trends. The dashboard aims to support decision-making and drive business success through data-driven insights.
 
+## Dashboard Link
+[Dashboard Link](https://app.powerbi.com/groups/me/reports/1154797e-81dd-4999-851f-2a28f6542caa/9c89a0330b53308ee2c9?experience=power-bi)
+
+## Dashboard Preview
+![Dashboard Preview]()
+
+
 ## Features of the Dashboard
 
 ### Visualizations Used
@@ -64,16 +71,3 @@ By highlighting regional sales trends, payment preferences, and delivery perform
 
 This project demonstrates how powerful tools like Power BI can be utilized to transform raw data into actionable insights, fostering growth and success in a competitive market.
 
-## How to Use the Dashboard
-
-1. **Clone the Repository**:
-   ```bash
-   git clone [repository-link]
-   ```
-2. **Open the Dashboard**:
-   - Import the Power BI file (.pbix) into your Power BI Desktop.
-3. **Interact with Visualizations**:
-   - Use slicers to filter data by year, region, category, etc.
-   - Explore time series trends and KPI metrics.
-
-For any questions or further improvements, feel free to raise an issue or contribute to the repository!

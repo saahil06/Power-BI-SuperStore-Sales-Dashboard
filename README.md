@@ -12,7 +12,7 @@ This project focuses on the analysis of super store data using **Power BI** to c
 ![Dashboard Preview](https://github.com/saahil06/Power-BI-SuperStore-Sales-Dashboard/blob/b541560df74c268880bbafc0346cc9e73cc03f9b/superstore%20analysis.png)
 
 ## Forecast Preview
-![Forecast Preview]()
+![Forecast Preview](https://github.com/saahil06/Power-BI-SuperStore-Sales-Dashboard/blob/cf944bb1ba15fc77298105efd278fca2761e4420/sforecast.png)
 
 
 ## Features of the Dashboard
